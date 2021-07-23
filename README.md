@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roberc
 - 👀 I’m interested in development of myself and the Matrix
 - 🌱 I’m currently learning lots of things
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m not looking to collaborate on anything. I have my own projects.
 - 📫 How to reach me - I'm unreachable for all except ones
 
 <!---
